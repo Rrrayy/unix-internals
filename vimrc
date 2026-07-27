@@ -1,0 +1,11 @@
+syntax on
+set number
+set tabstop=4
+set shiftwidth=4 
+set expandtab
+set hlsearch
+set incsearch
+set ignorecase
+set smartcase
+set cursorline
+colorscheme desert
